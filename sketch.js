@@ -75,7 +75,7 @@ function setup() {
 
 function draw() {
  // background(backgroundImg);  
- background("white")
+ background("cyan")
   Engine.update(engine);
  
   
